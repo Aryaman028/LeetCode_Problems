@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2727-number-of-senior-citizens) |
 ## Counting
@@ -77,4 +78,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
