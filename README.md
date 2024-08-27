@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0015-3sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0204-count-primes](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
@@ -82,9 +83,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0015-3sum) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [2886-faulty-keyboard](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2886-faulty-keyboard) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
