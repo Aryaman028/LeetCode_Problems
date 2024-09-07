@@ -92,15 +92,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,5 +171,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
