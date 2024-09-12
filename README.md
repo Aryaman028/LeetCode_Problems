@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Union Find
 |  |
@@ -210,4 +212,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
