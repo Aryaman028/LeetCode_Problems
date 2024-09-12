@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0566-reshape-the-matrix) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -54,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0227-basic-calculator-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2727-number-of-senior-citizens) |
@@ -61,11 +64,13 @@ Collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Math
 |  |
