@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0566-reshape-the-matrix) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -78,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0204-count-primes](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0268-missing-number) |
 | [1279-prime-arrangements](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1279-prime-arrangements) |
 | [2155-find-missing-observations](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2155-find-missing-observations) |
 | [2722-prime-in-diagonal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2722-prime-in-diagonal) |
@@ -138,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Design
 |  |
@@ -172,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sliding Window
