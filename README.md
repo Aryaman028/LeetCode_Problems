@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0566-reshape-the-matrix) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Math
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Tree
