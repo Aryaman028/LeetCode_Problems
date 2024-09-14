@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0204-count-primes](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0227-basic-calculator-ii) |
+| [0263-ugly-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0897-prime-palindrome](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0897-prime-palindrome) |
 | [1279-prime-arrangements](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1279-prime-arrangements) |
