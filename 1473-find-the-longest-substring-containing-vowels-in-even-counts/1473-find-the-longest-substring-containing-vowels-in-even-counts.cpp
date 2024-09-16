@@ -1,25 +1,33 @@
 class Solution {
 public:
     int findTheLongestSubstring(string s) {
-        int n = s.length();
-        int mask = 0, maxLength = 0;
-        unordered_map<int,int> m;
-        m[0] = -1;
-        
-        for (int i = 0; i < n; i++) {
-
-            if (s[i] == 'a') mask ^= (1 << 0);
-            else if (s[i] == 'e') mask ^= (1 << 1);
-            else if (s[i] == 'i') mask ^= (1 << 2);
-            else if (s[i] == 'o') mask ^= (1 << 3);
-            else if (s[i] == 'u') mask ^= (1 << 4);
-            
-            if (m.find(mask) != m.end()) {
-                maxLength = max(maxLength, i  - m[mask]);
-            } else {
-                m[mask] = i;
+       unordered_map<string,int>m;
+        vector<int>state(5,0);
+        string curstate ="00000";
+        int res = 0;
+        m[curstate]=-1;
+        for(int i=0;i<s.length();i++){
+            curstate="";
+            if(s[i]=='a'){
+                state[0]=(state[0] + 1)%2;
+            }else if(s[i]=='e'){
+                state[1]=(state[1] + 1)%2;
+            }else if(s[i]=='i'){
+                state[2]=(state[2] + 1)%2;
+            }else if(s[i]=='o'){
+                state[3]=(state[3] + 1)%2;
+            }else if(s[i]=='u'){
+                state[4]=(state[4] + 1)%2;
+            }
+            for(int j=0;j<state.size();j++){
+                curstate+=to_string(state[j]);
+            }
+            if(m.find(curstate)!=m.end()){
+                res=max(res,i - m[curstate]);
+            }else{
+                m[curstate]=i;
             }
         }
-        return maxLength;
+        return res;
     }
 };
