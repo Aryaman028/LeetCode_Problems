@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0204-count-primes) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0566-reshape-the-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2411-spiral-matrix-iv) |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
