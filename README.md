@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 ## Simulation
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
