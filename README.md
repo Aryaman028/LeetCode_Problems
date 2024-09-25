@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
@@ -212,10 +213,12 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0155-min-stack](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
 ## Dynamic Programming
 |  |
