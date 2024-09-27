@@ -6,7 +6,7 @@ public:
     
     bool book(int start, int end) {
         for(int i=0;i<v.size();i++){
-            if(max(v[i].first,v[i].second)>min(start,end) && min(v[i].first,v[i].second)<max(start,end)){
+            if(max(v[i].first,start)<min(v[i].second,end)){
                 return false;
             }
         }
