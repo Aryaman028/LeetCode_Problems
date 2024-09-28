@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0566-reshape-the-matrix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0566-reshape-the-matrix) |
 | [0729-my-calendar-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0859-design-circular-deque) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1677-matrix-diagonal-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -236,12 +237,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0729-my-calendar-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
+| [0859-design-circular-deque](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0859-design-circular-deque) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -298,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
