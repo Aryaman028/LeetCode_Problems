@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0432-all-oone-data-structure](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0432-all-oone-data-structure](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0859-design-circular-deque) |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -370,4 +373,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0729-my-calendar-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
