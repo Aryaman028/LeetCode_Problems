@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0731-my-calendar-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0859-design-circular-deque) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1677-matrix-diagonal-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0729-my-calendar-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
 | ------- |
