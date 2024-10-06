@@ -1,52 +1,26 @@
 class Solution {
 public:
-bool check(unordered_map<char,int>m,string &a){
-    for(int i=0;i<a.length();i++){
-        m[a[i]]--;
-    }
-    for(auto ele:m){
-        if(ele.second!=0){
-            return false;
-        }
-    }
-    return true;
-}
-// void permutations(set<string>&s,string &a,int i){
-//     int n = a.length();
-//     if(i==n){
-//         // v.push_back(a);
-//         s.insert(a);
-//         return;
-//     }
-
-//     for(int j=i;j<n;j++){
-//         swap(a[i],a[j]);
-//         permutations(s,a,i+1);
-//         swap(a[i],a[j]);
-//     }
-// }
     bool checkInclusion(string s1, string s2) {
-        // set<string>s;
-        // permutations(s,s1,0);
-        // if(s1.length()==2 && s2.length()==2){
-        //     string b=s1;
-        //     reverse(b.begin(),b.end());
-        //     if(s2==s1 || s2==b)return true;
-        //     else return false;
-        // }
-        unordered_map<char,int>m;
+        //OPTIMAL APPROACH USING SLIDING WINDOW AND VECTOR FOR STORING FREQUENCY
+        int n1=s1.length(),n2=s2.length();
+        if(n1>n2)return false;
+        vector<int>v1(26,0);
+        vector<int>v2(26,0);
+
+        //taking the frequncy of the s1 and the window of s2
         for(int i=0;i<s1.length();i++){
-            m[s1[i]]++;
+            v1[s1[i]-'a']++;
+            v2[s2[i]-'a']++;            //first window fre pushed
         }
-        int n=s1.length();
-        for(int i=0;i<s2.length();i++){
-            string a = s2.substr(i,n);
-            if(check(m,a)){
-                return true;
-            }
-            // if(s.find(a)!=s.end()){
-            //     return true;
-            // }
+        if(v1==v2)return true;
+
+        //using sliding window concept to store the fre of the char 
+        // in the window into the vector2 and comparing with the vector1;
+
+        for(int i=n1;i<n2;i++){             
+            v2[s2[i]-'a']++;             //adding the next ele fre
+            v2[s2[i-n1]-'a']--;          //removing the first ele fre as to maintain the window
+            if(v1==v2)return true;
         }
         return false;
     }
