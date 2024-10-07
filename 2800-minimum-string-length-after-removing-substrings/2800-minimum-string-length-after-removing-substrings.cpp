@@ -1,17 +1,12 @@
 class Solution {
 public:
     int minLength(string s) {
-        int i=0;
-        while(i<s.length()){
-            if(s.substr(i,2)=="AB" || s.substr(i,2)=="CD"){
-                s.erase(i,2);
-                cout<<s<<" ";
-                if(i==0)i=0;
-                else i-=1;
-                continue;
-            }
-            i++;
+        stack<char>st;
+        for(int i=0;i<s.length();i++){
+            if(!st.empty() && (st.top()=='A' && s[i]=='B' || st.top()=='C' && s[i]=='D')){
+                st.pop();
+            }else st.push(s[i]);
         }
-        return s.length();   
+        return st.size();
     }
 };
