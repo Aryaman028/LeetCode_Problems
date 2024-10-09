@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Two Pointers
 |  |
@@ -423,4 +426,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0432-all-oone-data-structure) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
