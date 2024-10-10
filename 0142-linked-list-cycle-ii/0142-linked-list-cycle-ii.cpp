@@ -9,19 +9,28 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        map<ListNode*,int>m;
-        ListNode* cur = head;
-        if(cur==NULL || cur->next==NULL)return NULL;
-        int index = 0;
-        while(cur!=NULL){
-            if(m.find(cur)==m.end()){
-                m[cur]=index++;
-            }else{
-                return cur;
+        //OPTIMAL APPROACH 
+        //TC->O(N)  SC->O(1)
+        if(head==NULL)return NULL;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        //Is cycle present or not
+        while(fast!=NULL && fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
+            if(slow==fast){
+                break;
             }
-            cur=cur->next;
         }
-        return NULL;
+        //now fast points to head and move both slow and fast with the same speed
+        //now the point the meet that will be the head of the cycle
+        if(fast==NULL || fast->next==NULL)return NULL;
+        fast=head;
+        while(slow!=fast){
+            fast=fast->next;
+            slow=slow->next;
+        }
+        return fast;
         
     }
 };
