@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1923-sentence-similarity-iii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1923-sentence-similarity-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2755-extra-characters-in-a-string) |
@@ -348,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Monotonic Queue
 |  |
