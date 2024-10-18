@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0670-maximum-swap) |
 | [0897-prime-palindrome](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0897-prime-palindrome) |
 | [1279-prime-arrangements](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1279-prime-arrangements) |
 | [2155-find-missing-observations](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2155-find-missing-observations) |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0179-largest-number) |
+| [0670-maximum-swap](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1304-longest-happy-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
