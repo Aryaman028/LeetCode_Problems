@@ -13,7 +13,6 @@ public:
         return index;
     }
     int convertToNum(vector<int>v,int i,int j){
-        //swaping is done here as we dont want to hinder the original vector elements
         swap(v[i],v[j]);
         long res=0;                     //causing error bcz of int
         int n=v.size();
@@ -24,9 +23,7 @@ public:
     }
 
     int maximumSwap(int num) {
-        //Converting the num into vector then At each ele we are finding the next greater ele by the 
-        // function [findingMax] and then swaping the elements and 
-        // converting the vector into number again and comparing with the original num 
+        //Converting the num into vector then At each ele we are finding the next greater ele by the function [findingMax] and then swaping the elements and converting the vector into number again and comparing with the original num 
 
         //TC -> O(N^2)  SC -> O(NUM.LENGTH)
 
