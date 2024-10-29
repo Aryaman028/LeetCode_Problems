@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2722-prime-in-diagonal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2722-prime-in-diagonal) |
 | [2727-number-of-senior-citizens](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2132-convert-1d-array-into-2d-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2411-spiral-matrix-iv) |
 | [2722-prime-in-diagonal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2722-prime-in-diagonal) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
