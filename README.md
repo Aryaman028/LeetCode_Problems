@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2886-faulty-keyboard) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3451-string-compression-iii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3451-string-compression-iii) |
 ## Counting
 |  |
 | ------- |
