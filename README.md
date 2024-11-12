@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0432-all-oone-data-structure) |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0024-swap-nodes-in-pairs](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
