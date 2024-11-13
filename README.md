@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2722-prime-in-diagonal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2722-prime-in-diagonal) |
 | [2727-number-of-senior-citizens](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2755-extra-characters-in-a-string) |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## Design
 |  |
@@ -396,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2210-find-target-indices-after-sorting-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sliding Window
 |  |
 | ------- |
