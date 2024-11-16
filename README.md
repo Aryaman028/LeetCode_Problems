@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0567-permutation-in-string) |
