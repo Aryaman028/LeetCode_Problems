@@ -391,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [3189-find-champion-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3189-find-champion-ii) |
 ## Matrix
 |  |
 | ------- |
