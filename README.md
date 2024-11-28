@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0812-rotate-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1250-longest-common-subsequence](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -382,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1250-longest-common-subsequence) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2586-longest-square-streak-in-an-array) |
