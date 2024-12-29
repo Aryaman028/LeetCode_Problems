@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0566-reshape-the-matrix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0566-reshape-the-matrix) |
 | [0729-my-calendar-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0787-sliding-puzzle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
 | [1250-longest-common-subsequence](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1250-longest-common-subsequence) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2554-minimum-total-distance-traveled) |
@@ -423,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0566-reshape-the-matrix) |
+| [0787-sliding-puzzle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1677-matrix-diagonal-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1972-rotating-the-box](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1972-rotating-the-box) |
@@ -505,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0787-sliding-puzzle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -541,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0787-sliding-puzzle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -569,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
+| [0787-sliding-puzzle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Segment Tree
 |  |
