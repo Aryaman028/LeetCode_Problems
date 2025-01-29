@@ -1,20 +1,18 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        unordered_map<char,int>m;
+        vector<int>v(26);
 
         for(auto it: s){
-            m[it]++;
+            v[it-'a']++;
         }
 
         for(auto it: t){
-            m[it]--;
+            v[it-'a']--;
         }
 
-        for(auto it:m){
-            if(it.second!=0){
-                return it.first;
-            }
+        for(int i=0;i<26;i++){
+           if(v[i]==-1)return (char) i +'a';
         }
         return ' ';
     }
