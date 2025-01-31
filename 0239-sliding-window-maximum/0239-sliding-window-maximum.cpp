@@ -1,34 +1,32 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-        // int start=0;
-        // int end=k-1;
-        // vector<int>v;
-        //                                                      //brute force approach
-        // for(int i=0;i<=nums.size()-k;i++){
-        //     int m=INT_MIN;
-        //     for(int j=i;j<i+k;j++){
-        //         m=max(m,nums[j]);
-        //     }
-        //     v.push_back(m);
-        // }
-        // return v;
-
-                                                    //optimal approach using dequeue
-        deque<int>d;
+        deque<int>dq;
         vector<int>v;
-        for(int i=0;i<nums.size();i++){
-            if(!d.empty() && d.front()==i-k){
-                d.pop_front();        //this means front element of queue is out of boundation
+        int n = nums.size();
+        //storing first k elements in deque
+        for(int i=0;i<k;i++){
+            while(!dq.empty() && nums[dq.back()]<=nums[i]){
+                dq.pop_back();
             }
-            while(!d.empty() && nums[d.back()]<nums[i]){
-                d.pop_back();
-            }
-            d.push_back(i);
-            if(i>=k-1)v.push_back(nums[d.front()]);   //after crossing first k-1 element u will get one ans on every element
+            dq.push_back(i);
         }
+        for(int i=k;i<n;i++){
+            v.push_back(nums[dq.front()]);
+
+            // window size if exceeds then remove the front element
+            while(!dq.empty() && i-dq.front()>=k){
+                dq.pop_front();
+            }
+
+            //remove all ele which are less than the cur number
+            while(!dq.empty() && nums[dq.back()]<=nums[i]){
+                dq.pop_back();
+            }
+            dq.push_back(i);
+        }
+        //push the last window max ele
+        v.push_back(nums[dq.front()]);
         return v;
-        
-        
     }
 };
