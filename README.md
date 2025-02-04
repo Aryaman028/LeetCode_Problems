@@ -518,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0725-split-linked-list-in-parts) |
