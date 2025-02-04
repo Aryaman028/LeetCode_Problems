@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -514,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -564,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
