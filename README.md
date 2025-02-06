@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1002-maximum-width-ramp](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1364-tuple-with-same-product](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1364-tuple-with-same-product) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1364-tuple-with-same-product](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1364-tuple-with-same-product](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
