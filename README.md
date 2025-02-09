@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2411-spiral-matrix-iv) |
+| [2448-count-number-of-bad-pairs](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2586-longest-square-streak-in-an-array) |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
@@ -248,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0897-prime-palindrome](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0897-prime-palindrome) |
 | [1279-prime-arrangements](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1279-prime-arrangements) |
 | [2155-find-missing-observations](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2155-find-missing-observations) |
+| [2448-count-number-of-bad-pairs](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2722-prime-in-diagonal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2722-prime-in-diagonal) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
