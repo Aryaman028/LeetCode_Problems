@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2886-faulty-keyboard](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2886-faulty-keyboard) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3447-clear-digits](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3451-string-compression-iii) |
 ## Counting
 |  |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2886-faulty-keyboard) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
 | ------- |
