@@ -1,26 +1,24 @@
 class Solution {
 public:
-    void bt(set<vector<int>>&s,int i,vector<int>& nums,vector<int>v){
-        if(i==nums.size()){
-            s.insert(v);
-            return;
-        }
-        // not take
-        bt(s,i+1,nums,v);
 
-        //take
-        v.push_back(nums[i]);
-        bt(s,i+1,nums,v);
+    void helper(vector<int>&nums, int ind, vector<int>&v,vector<vector<int>>&res){
+       
+        res.push_back(v);
+        for(int i=ind;i<nums.size();i++){
+            if(i>ind && nums[i]==nums[i-1])continue;
+            v.push_back(nums[i]);
+            helper(nums,i+1,v,res);
+            v.pop_back();
+        }
+      
     }
+
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        //Using set just to eliminate the duplicates
-        set<vector<int>>s;
-        sort(nums.begin(),nums.end());
+        // OPTIMAL APPROCAH
         vector<int>v;
-        bt(s,0,nums,v);
+        sort(nums.begin(),nums.end());
         vector<vector<int>>res;
-        res.assign(s.begin(),s.end());
+        helper(nums,0,v,res);
         return res;
-        
     }
 };
