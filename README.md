@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2155-find-missing-observations](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2722-prime-in-diagonal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2722-prime-in-diagonal) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Enumeration
@@ -648,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0787-sliding-puzzle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Segment Tree
 |  |
 | ------- |
