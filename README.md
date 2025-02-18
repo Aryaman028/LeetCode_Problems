@@ -479,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1916-find-center-of-star-graph](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1916-find-center-of-star-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
