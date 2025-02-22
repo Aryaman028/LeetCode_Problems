@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0812-rotate-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0404-sum-of-left-leaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0437-path-sum-iii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2201-valid-arrangement-of-pairs) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -362,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0404-sum-of-left-leaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
