@@ -721,4 +721,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
