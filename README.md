@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0179-largest-number) |
@@ -477,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
