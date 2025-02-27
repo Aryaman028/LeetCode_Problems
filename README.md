@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0967-minimum-falling-path-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
@@ -485,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0787-sliding-puzzle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
+| [0967-minimum-falling-path-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1250-longest-common-subsequence) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2554-minimum-total-distance-traveled) |
@@ -518,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0566-reshape-the-matrix) |
 | [0787-sliding-puzzle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
+| [0967-minimum-falling-path-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1677-matrix-diagonal-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1972-rotating-the-box](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1972-rotating-the-box) |
