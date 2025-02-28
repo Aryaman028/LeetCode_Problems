@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
@@ -488,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0322-coin-change](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0787-sliding-puzzle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
 | [0967-minimum-falling-path-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0967-minimum-falling-path-sum) |
@@ -615,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0787-sliding-puzzle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
