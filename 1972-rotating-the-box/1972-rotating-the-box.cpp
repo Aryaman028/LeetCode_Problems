@@ -1,25 +1,39 @@
 class Solution {
 public:
-    vector<vector<char>> rotateTheBox(vector<vector<char>>& box) {
-        int ROWS = box.size();
-        int COLS = box[0].size();
-        
-        vector<vector<char>> res(COLS, vector<char>(ROWS, '.'));
-        
-        for (int r = 0; r < ROWS; r++) {
-            int i = COLS - 1;
-            for (int c = COLS - 1; c >= 0; c--) {
-                if (box[r][c] == '#') {
-                    res[i][ROWS - r - 1] = '#';
-                    i--;
-                }
-                else if (box[r][c] == '*') {
-                    res[c][ROWS - r - 1] = '*';
-                    i = c - 1;
+    void move(int row, int col,vector<vector<char>>& res){
+        int n = res.size();
+        for(int i = row; i < n; i++){
+            if(res[i][col] == '.'){
+                swap(res[i][col], res[row][col]);
+            }
+            if(res[i][col] == '*'){
+                break;
+            }
+        }
+    }
+
+    vector<vector<char>> rotateTheBox(vector<vector<char>>& boxGrid) {
+        int n = boxGrid.size();
+        int m = boxGrid[0].size();
+        vector<vector<char>>res(m,vector<char>(n,'.'));
+
+        //forming a new mattrix
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j< n; j++){
+                res[i][j] = boxGrid[j][i];
+            }
+            //reversing the row
+            reverse(res[i].begin(),res[i].end());
+        }
+
+        //move the current # to the down the column where is free space
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j< n; j++){
+                if(res[i][j] == '#'){
+                    move(i,j,res);
                 }
             }
         }
-        
         return res;
     }
 };
