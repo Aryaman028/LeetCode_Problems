@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<int> pivotArray(vector<int>& nums, int pivot) {
+        ios_base::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
         vector<int>v1;
         vector<int>v2;
         int countPivot = 0;
