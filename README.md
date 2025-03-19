@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3291-find-if-array-can-be-sorted](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3394-minimum-array-end) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Math
 |  |
 | ------- |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Tree
 |  |
 | ------- |
@@ -495,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -597,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
