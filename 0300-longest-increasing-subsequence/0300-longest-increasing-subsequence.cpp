@@ -1,32 +1,45 @@
 class Solution {
 public:
     
-    int solve(int i, int front, vector<int>&nums,vector<vector<int>>&dp){
-        if(i == 0){
-            return 0;
-        }
+    int solve(int i, int prev, vector<int>&nums,vector<vector<int>>&dp){
+        if(i==nums.size())return 0;
 
-        if(dp[i - 1][front] != -1)return dp[i - 1][front];
+        if(dp[i][prev+1]!=-1)return dp[i][prev+1];
         
-        //pick
         int y=0;
-        if(front == nums.size() || nums[i - 1] < nums[front]){//we will be counting in y whenever we are picking the right ele
-            y = 1 + solve(i - 1, i - 1, nums, dp);
+        if(prev==-1 || nums[i]>nums[prev]){
+            y = 1 + solve(i+1,i,nums,dp);
         }
-        //not pick
-        int x = solve(i - 1, front, nums, dp);
+        int x = solve(i+1,prev,nums,dp);
 
-
-        return dp[i - 1][front] = max(x,y);
+        return dp[i][prev+1] = max(x,y);
     }
     int lengthOfLIS(vector<int>& nums) {
         //Using take and not take approach and DP to store the previously come results in the array  
         //We will be storing the prev element in the variable so that we can pick the next ele which is greater than the prev ele
+        // int n = nums.size();
+        // vector<vector<int>>dp(n,vector<int>(n+1,-1));
+        // return solve(0,-1,nums,dp);
+        
+        //using memoization now i am doing tabulation
         int n = nums.size();
-        vector<vector<int>>dp(n,vector<int>(n+1,-1));
+        vector<vector<int>>dp(n + 1,vector<int>(n+1,0));
 
-        //TABULATION
+        //conside the shift we have done for prev
+        for(int i = n - 1; i >= 0 ; i--){
+            for(int prev = i - 1; prev >= -1; prev--){
+                int y=0;
+                if(prev==-1 || nums[i]>nums[prev]){
+                    //shifting the coordinates thus we are adding 1 to i in the column
+                    y = 1 + dp[i + 1][i + 1];
+                }
+                int x = dp[i+1][prev + 1];
+                dp[i][prev+1] = max(x,y);
 
-        return solve(n , n, nums, dp);
+            }
+        }
+        return dp[0][0];
+
+
     }
 };
