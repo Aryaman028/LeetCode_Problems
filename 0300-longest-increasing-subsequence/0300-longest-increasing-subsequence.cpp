@@ -2,22 +2,22 @@ class Solution {
 public:
     
     int solve(int i, int front, vector<int>&nums,vector<vector<int>>&dp){
-        if(i < 0){
+        if(i == 0){
             return 0;
         }
 
-        if(dp[i][front]!=-1)return dp[i][front];
+        if(dp[i - 1][front] != -1)return dp[i - 1][front];
         
         //pick
         int y=0;
-        if(front == nums.size() || nums[i] < nums[front]){//we will be counting in y whenever we are picking the right ele
-            y = 1 + solve(i - 1, i, nums, dp);
+        if(front == nums.size() || nums[i - 1] < nums[front]){//we will be counting in y whenever we are picking the right ele
+            y = 1 + solve(i - 1, i - 1, nums, dp);
         }
         //not pick
         int x = solve(i - 1, front, nums, dp);
 
 
-        return dp[i][front] = max(x,y);
+        return dp[i - 1][front] = max(x,y);
     }
     int lengthOfLIS(vector<int>& nums) {
         //Using take and not take approach and DP to store the previously come results in the array  
@@ -27,6 +27,6 @@ public:
 
         //TABULATION
 
-        return solve(n - 1 , n, nums, dp);
+        return solve(n , n, nums, dp);
     }
 };
