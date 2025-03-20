@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2873-prime-pairs-with-target-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2873-prime-pairs-with-target-sum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3429-special-array-i) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -536,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
 | ------- |
@@ -546,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3189-find-champion-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
 |  |
