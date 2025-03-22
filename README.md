@@ -386,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2201-valid-arrangement-of-pairs) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2793-count-the-number-of-complete-components](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -543,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2793-count-the-number-of-complete-components](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
@@ -554,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3189-find-champion-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -682,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Greedy
 |  |
