@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
@@ -513,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0063-unique-paths-ii) |
@@ -747,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0040-combination-sum-ii) |
