@@ -1,31 +1,31 @@
 class Solution {
 public:
-    bool palindrome(int start, int end,string s){
-        while(start<end){
-            if(s[start++]!=s[end--])return false;
+    bool palindrome(int i, int j, string s){
+        while( i <= j){
+            if(s[i++] != s[j--])return false;
         }
         return true;
     }
-    void helper(string s,int ind,vector<vector<string>>&res ,vector<string>&v){
-        if(ind==s.length()){
+    void helper(int i, string s,vector<string>&v, vector<vector<string>>&res){
+        if(i==s.length()){
             res.push_back(v);
             return;
         }
 
-        for(int i=ind;i<s.length();i++){
-            if(palindrome(ind,i,s)){
-                v.push_back(s.substr(ind,i - ind + 1));
-                helper(s,i+1,res,v);
+        for(int j = i; j <s.length(); j++){
+            if(palindrome(i,j,s)){
+                string sub = s.substr(i,j - i + 1);
+                v.push_back(sub);
+                //take care of this case we have to now find from the next index of j
+                helper(j+1,s,v,res);
                 v.pop_back();
             }
         }
     }
-
     vector<vector<string>> partition(string s) {
         vector<vector<string>>res;
         vector<string>v;
-
-        helper(s,0,res,v);
+        helper(0,s,v,res);
         return res;
     }
 };
