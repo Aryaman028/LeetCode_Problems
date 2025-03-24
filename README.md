@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1002-maximum-width-ramp](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1364-tuple-with-same-product) |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1073-number-of-enclaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2201-valid-arrangement-of-pairs) |
@@ -556,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1073-number-of-enclaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
@@ -592,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0787-sliding-puzzle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
 | [0967-minimum-falling-path-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1677-matrix-diagonal-sum](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1972-rotating-the-box](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1972-rotating-the-box) |
@@ -697,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
