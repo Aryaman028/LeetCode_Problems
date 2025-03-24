@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -493,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
+| [3430-count-days-without-meetings](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3430-count-days-without-meetings) |
 ## Design
 |  |
 | ------- |
