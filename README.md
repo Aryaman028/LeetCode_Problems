@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1073-number-of-enclaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1364-tuple-with-same-product](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1364-tuple-with-same-product) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1002-maximum-width-ramp) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1002-maximum-width-ramp) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Hash Table
 |  |
