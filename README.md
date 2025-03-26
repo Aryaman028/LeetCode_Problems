@@ -384,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0386-lexicographical-numbers) |
@@ -571,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -702,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0542-01-matrix) |
@@ -850,6 +853,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0207-course-schedule) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
