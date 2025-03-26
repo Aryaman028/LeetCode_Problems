@@ -392,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0501-find-mode-in-binary-search-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -562,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2793-count-the-number-of-complete-components) |
@@ -570,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1916-find-center-of-star-graph](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1916-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -705,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
+| [0801-is-graph-bipartite](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
