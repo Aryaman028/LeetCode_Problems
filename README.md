@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1923-sentence-similarity-iii) |
@@ -743,6 +746,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0670-maximum-swap](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
