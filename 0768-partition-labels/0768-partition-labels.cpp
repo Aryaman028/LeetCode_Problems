@@ -1,22 +1,29 @@
 class Solution {
 public:
     vector<int> partitionLabels(string s) {
-        unordered_map<char, int> last_occurrence;
-        for (int i = 0; i < s.size(); i++) {
-            last_occurrence[s[i]] = i;
+        unordered_map<char,int>m;
+
+        //storing the last occurrence
+        for(int i = 0 ; i < s.length(); i++){
+            m[s[i]] = i;
         }
 
-        vector<int> result;
-        int start = 0, end = 0;
+        vector<int>v;
+        for(int i = 0 ; i < s.length(); i++){
+            //initilizing the lastindex till where we can have the partition
+            int lastIndex = m[s[i]];
+            string a = "";
 
-        for (int i = 0; i < s.size(); i++) {
-            end = max(end, last_occurrence[s[i]]);
-            if (i == end) {
-                result.push_back(end - start + 1);
-                start = i + 1;
+            for(int j = i; j <= lastIndex; j++){
+                //if the char inside the substring have the lastindex greater than the initial then update the last index as we will take till that index ,
+                if(m[s[j]] > lastIndex){
+                    lastIndex = m[s[j]];
+                }
+                a+=s[j];
             }
+            i  += a.length() - 1;
+            v.push_back(a.length());
         }
-
-        return result;
+        return v;
     }
 };
