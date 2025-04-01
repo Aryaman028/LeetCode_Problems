@@ -13,7 +13,7 @@ public:
 
         // {dist, {row,col}}
 
-        pq.push({0, {0,0}});
+        pq.push({1, {0,0}});
         dist[0][0] = 1;
         
         for(int i = 0 ; i < m; i++){
@@ -35,12 +35,18 @@ public:
                 int newcol = col + dc;
                 
                 if(newrow >= 0 && newcol >= 0 && newrow < m && newcol < n && dist[newrow][newcol] != -1){
-                    if(dist[row][col] + 1 < dist[newrow][newcol]){
-                        dist[newrow][newcol] = dist[row][col]  + 1;
-                        pq.push({dist[row][col] + 1, {newrow, newcol}});
+                    if(d + 1 < dist[newrow][newcol]){
+                        dist[newrow][newcol] = d  + 1;
+                        pq.push({d + 1, {newrow, newcol}});
                     }
                 }
             }
+        }
+
+         for(int i = 0 ; i < m; i++){
+            for(int j = 0; j < n; j++){
+                cout<<dist[i][j]<<" ";
+            }cout<<endl;
         }
         if(dist[m - 1][n - 1]==1e9)return -1;
         return dist[m - 1][n - 1];
