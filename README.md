@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2210-find-target-indices-after-sorting-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -572,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1250-longest-common-subsequence](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1250-longest-common-subsequence) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2755-extra-characters-in-a-string) |
