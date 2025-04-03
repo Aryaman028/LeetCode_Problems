@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0566-reshape-the-matrix) |
 | [0729-my-calendar-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
