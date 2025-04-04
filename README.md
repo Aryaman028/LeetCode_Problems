@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3001-apply-operations-to-maximize-score](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -691,6 +693,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Aryaman028/LeetCode_Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
