@@ -430,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -620,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1916-find-center-of-star-graph](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1916-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -765,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -915,6 +918,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Aryaman028/LeetCode_Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
