@@ -41,7 +41,7 @@ public:
         }
         if(nums[0]<=sum)dp[0][nums[0]] = true;
 
-        for(int i = 1;i < n; i++){
+        for(int i = 1; i < n; i++){
             for(int target = 1; target <= sum; target++ ){
                 bool take=false;
                 if(target >= nums[i]) take = dp[i-1][target - nums[i]];
