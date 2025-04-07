@@ -21,6 +21,10 @@ public:
 
             pq.pop();
 
+            if(row==m-1 && col==n-1){
+                return d;
+            }
+
             for(auto [dr,dc] : directions){
                 int newrow = row + dr;
                 int newcol = col + dc;
