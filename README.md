@@ -402,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0404-sum-of-left-leaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -430,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0404-sum-of-left-leaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0801-is-graph-bipartite) |
@@ -465,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0404-sum-of-left-leaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aryaman028/LeetCode_Problems/tree/master/1484-linked-list-in-binary-tree) |
