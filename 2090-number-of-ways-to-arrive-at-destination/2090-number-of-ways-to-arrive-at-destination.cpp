@@ -1,37 +1,51 @@
-#define ll long long
-#define pll pair<ll, ll>
 class Solution {
 public:
-    int MOD = 1e9 + 7;
+    int mod = 1e9 + 7;
     int countPaths(int n, vector<vector<int>>& roads) {
-        vector<vector<pll>> graph(n);
-        for(auto& road: roads) {
-            ll u = road[0], v = road[1], time = road[2];
-            graph[u].push_back({v, time});
-            graph[v].push_back({u, time});
+        
+        vector<vector<pair<int,int>>>adj(n);
+
+        for(auto arr : roads){
+            int u = arr[0], v = arr[1], d = arr[2];
+            adj[u].push_back({v, d});
+            adj[v].push_back({u, d});
         }
-        return dijkstra(graph, n, 0);
-    }
-    int dijkstra(const vector<vector<pll>>& graph, int n, int src) {
-        vector<ll> dist(n, LONG_MAX);
-        vector<ll> ways(n);
-        ways[src] = 1;
-        dist[src] = 0;
-        priority_queue<pll, vector<pll>, greater<>> minHeap;
-        minHeap.push({0, 0}); // dist, src
-        while (!minHeap.empty()) {
-            auto[d, u] = minHeap.top(); minHeap.pop();
-            if (d > dist[u]) continue; // Skip if `d` is not updated to latest version!
-            for(auto [v, time] : graph[u]) {
-                if (dist[v] > d + time) {
-                    dist[v] = d + time;
-                    ways[v] = ways[u];
-                    minHeap.push({dist[v], v});
-                } else if (dist[v] == d + time) {
-                    ways[v] = (ways[v] + ways[u]) % MOD;
+
+        priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<pair<long long, int>>> pq;
+
+
+        vector<int>ways(n,0);
+        ways[0] = 1;
+        vector<long long>dist(n,LLONG_MAX);
+        
+
+        pq.push({0,0});
+        dist[0] = 0;
+
+        while(!pq.empty()){
+            long long d = pq.top().first;
+            int node = pq.top().second;
+            pq.pop();
+
+            if (d > dist[node]) continue;
+
+            for(auto ele : adj[node]){
+                int adjnode = ele.first;
+                int wt = ele.second;
+
+                long long res = (long long)wt + d;
+
+                if(res < dist[adjnode]){
+                    dist[adjnode] = res;
+                    ways[adjnode] = ways[node];
+                    pq.push({res, adjnode});
+                }else if(res == dist[adjnode]){
+                    ways[adjnode] = (ways[adjnode] + ways[node])% mod;
                 }
             }
         }
         return ways[n-1];
+       
+
     }
 };
